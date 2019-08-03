@@ -44,6 +44,8 @@
 * [ ] Celebrate! Preparing and giving a conference talk is a lot of work and you’re done! 🎉
 
 ## Additional Resources 
+* [ ] [
+How to Make Your Presentations Accessible to All](https://www.w3.org/WAI/teach-advocate/accessible-presentations/)
 * [ ] [https://speaking.io/](https://speaking.io/)
 * [ ] [The Ultimate Guide to Memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-4-tools-of-the-trade-a2d5cb8e5daa)
 * [ ] [How to Prepare: A Checklist for Great Talks](https://scottberkun.com/wp-content/uploads/2017/09/How-to-Prepare-checklist.pdf)
