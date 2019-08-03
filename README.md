@@ -33,14 +33,14 @@
 * [ ] Get closer to the microphone than you think you should (1-3 inches)
 
 ### Posture and Position and Poise
-* [ ] Don’t lean on the podium
-* [ ] Don’t use the podium to shield you from the audience
-* [ ] Open your body language
-* [ ] Talk slower than you think you should
+* [ ] Don’t lean on the podium.
+* [ ] Don’t use the podium to shield you from the audience.
+* [ ] Open your body language.
+* [ ] Talk slower than you think you should.
 
 ## After
 * [ ] Add your slide deck and contact info to this github repo: [https://github.com/developdenver/2019-dvlpdnvr-talks](https://github.com/developdenver/2019-dvlpdnvr-talks)
-* [ ] Great speakers thank their attendees and share their resources, so if you have a twitter account, send a tweet thanking people who attended and share your resources, including your slide deck. 
+* [ ] Great speakers thank their attendees and share their resources, so if you have a twitter account, send a tweet thanking people who attended and share your resources, including your slide deck. Use the hashtag #dvlpdnvr.
 * [ ] Celebrate! Preparing and giving a conference talk is a lot of work and you’re done! 🎉
 
 ## Additional Resources 
