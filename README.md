@@ -1,11 +1,11 @@
 # Develop Denver Speaker Checklist 
 
 ## Before 
-* [ ] Rehearse out loud, but don't overdo it
+* [ ] Rehearse out loud, but don't overdo it.
 * [ ] Planning a talk in your head and saying the words out loud are two different skills. Make sure you practice your talk. 
 * [ ] Rehearse out loud to help you write the talk, not just when you’re “done.” 
 
-### Avoid over-rehearsing.
+### Avoid over-rehearsing
 * [ ] Decide if you want to have notes, and add them to your slide deck, or put them on paper. 
 
 ### Get Feedback 
@@ -46,5 +46,5 @@
 ## Additional Resources 
 * [ ] [https://speaking.io/](https://speaking.io/)
 * [ ] [The Ultimate Guide to Memorable Tech Talks](https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-4-tools-of-the-trade-a2d5cb8e5daa)
-* [ ] [How to Prepare Checklist](https://scottberkun.com/wp-content/uploads/2017/09/How-to-Prepare-checklist.pdf)
+* [ ] [How to Prepare: A Checklist for Great Talks](https://scottberkun.com/wp-content/uploads/2017/09/How-to-Prepare-checklist.pdf)
 
