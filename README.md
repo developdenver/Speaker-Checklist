@@ -5,7 +5,7 @@
 * [ ] Planning a talk in your head and saying the words out loud are two different skills. Make sure you practice your talk. 
 * [ ] Rehearse out loud to help you write the talk, not just when you’re “done.” 
 
-### Avoid over-rehearsing
+### Avoid Over-Rehearsing
 * [ ] Decide if you want to have notes, and add them to your slide deck, or put them on paper. 
 
 ### Get Feedback 
@@ -15,12 +15,12 @@
 * [ ] Spell check your slides.
 * [ ] Have a backup copy of your slides in case of issues with the internet. 
     * [ ] Many presentation platforms have an option to export your slides as a PDF.
-* [ ] Keep the text on each slide short and powerful. Ideally, each slide could be a tweet on it’s own. 
+* [ ] Keep the text on each slide short and powerful. Ideally, each slide could be a tweet on its own. 
 * [ ] Credit your sources (code or design samples, images and gifs, etc.) especially if the material is copyrighted. 
 * [ ] Include a slide that lists relevant resources from your talk.
 * [ ] Ensure your final slide says “Thank you” and shows your contact info (twitter, github, dribble, personal website, etc.).
 
-### Have a contingency plan
+### Have a Contingency Plan
 * [ ] What will you do if the screen goes out? Network dies? Video won’t play? Your live demo stops working? 
     * [ ] Record a screencast and have it saved on your computer if you are planning a live demo.
 
@@ -32,7 +32,7 @@
 * [ ] Use the microphone. This is required so that people with impaired hearing can hear you and so you can be heard on the video recording or if there is live-captioning. 
 * [ ] Get closer to the microphone than you think you should (1-3 inches)
 
-### Posture and position and poise
+### Posture and Position and Poise
 * [ ] Don’t lean on the podium
 * [ ] Don’t use the podium to shield you from the audience
 * [ ] Open your body language
